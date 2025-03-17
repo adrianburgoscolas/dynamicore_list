@@ -1,50 +1,54 @@
-# Welcome to your Expo app 👋
+# Dynamicore React Native Test
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Table of contents
 
-## Get started
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Install](#install)
+- [Author](#author)
 
-1. Install dependencies
+## Overview
 
-   ```bash
-   npm install
-   ```
+### The challenge
 
-2. Start the app
+Create a simple React Native app that displays a list of items and allows you to add new items using a form.
+Implement a React Native component that displays a map with the user's current location.
 
-   ```bash
-    npx expo start
-   ```
+### Screenshot
 
-In the output, you'll find options to open the app in a
+![](./screenshot1.png)
+![](./screenshot2.png)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Links
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- Solution URL: [Solution URL](https://github.com/adrianburgoscolas/dynamicore_list)
 
-## Get a fresh project
+## My process
 
-When you're ready, run:
+### Built with
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- [Expo](https://expo.dev/) - A framework to create universal native apps with React that run on Android, iOS, and the web. Iterate with confidence
+- [TypeScript1](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript
+- Semantic HTML5 markup
 
-## Learn more
+## Install
 
-To learn more about developing your project with Expo, look at the following resources:
+- Clone repository `git clone git@github.com:adrianburgoscolas/dynamicore_list.git`
+- Go to project folder `cd dynamicore_list`
+- Install dependencies `npm install`
+- Start project `npm start`
+![](./screenshot3.png)
+- Download the app from the Google Play Store, or visit the Expo Go page on the [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=docs).
+- Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+## Author
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Website - [Adrian Burgos: Portfolio](https://adrianburgoscolas.github.io/portfolio/)
+- GitHub - [https://github.com/adrianburgoscolas](https://github.com/adrianburgoscolas)
+- LinkedIn - [Adrian Burgos Web Developer](https://www.linkedin.com/in/adrian-burgos-1776a6144/)
